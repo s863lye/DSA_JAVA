@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/s863lye/DSA_JAVA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/s863lye/DSA_JAVA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/s863lye/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/s863lye/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/s863lye/DSA_JAVA/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/s863lye/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
