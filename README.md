@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/s863lye/DSA_JAVA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/s863lye/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/s863lye/DSA_JAVA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/s863lye/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/s863lye/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
@@ -20,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/s863lye/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/s863lye/DSA_JAVA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/s863lye/DSA_JAVA/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/s863lye/DSA_JAVA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/s863lye/DSA_JAVA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
