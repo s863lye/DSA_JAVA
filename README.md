@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/s863lye/DSA_JAVA/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/s863lye/DSA_JAVA/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
