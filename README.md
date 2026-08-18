@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/s863lye/DSA_JAVA/tree/master/0709-to-lower-case) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/s863lye/DSA_JAVA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
